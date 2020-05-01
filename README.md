@@ -1,5 +1,5 @@
 <h1>End to End Memory Networks</h1>
-<h3>The project will be an implementation of the following paper:</h3> <a href="https://arxiv.org/pdf/1503.08895.pdf">End to End Memory Networks</a>
+<h3>The project will be an implementation of the following paper:</h3> <a href="https://arxiv.org/pdf/1503.08895.pdf">End to End Memory Networks</a><br>
 Implementation of an AI bot that can answer questions based on a story that is given to the bot.
 <pre>
 <b>Example:</b>
