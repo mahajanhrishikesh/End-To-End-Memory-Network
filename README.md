@@ -29,7 +29,7 @@ Implementation of an AI bot that can answer questions based on a story that is g
 
 <h3>Model Architecture</h3>
 <center>
-<img src="https://github.com/mahajanhrishikesh/End-To-End-Memory-Network/blob/master/images/arch.png?raw=true">
+<img src="https://github.com/mahajanhrishikesh/End-To-End-Memory-Network/blob/master/images/arch.png?raw=true" style="border: 2px black;">
 </center>
 
 <h3>Single memory hop:</h3>
